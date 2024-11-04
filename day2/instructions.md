@@ -22,7 +22,7 @@ Your tasks in this exercise are to:
 
 1. [Create a GitHub account](https://github.com/) if you don't already have one.
 1. Fork your friend's repository (we will pretend for the sake of this exercise
-that it is this repository, `intro-to-git-2024-11.git`).
+that it is this repository, `git-course.git`).
 1. Clone your fork to your laptop.
 
    [Optional bonus step: create a new branch called `bugfix` and make your edits
