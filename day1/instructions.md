@@ -78,10 +78,15 @@ the file: `# this is a simple python example`. Save and close the file.
 1. Using `git log`, find the hash of the commit where you first included
 `main.py`.
 
-1. Go back in time to the commit identified in the previous step using
+1. Go back in time to inspect the commit identified in the previous step using
 `git checkout`.
 
 1. Now go forward in time to your latest commit.
+
+1. Let's pretend that your last commit broke your code.
+Revert (i.e., undo) your latest commit using `git revert`. See the
+[documentation for `git revert`](https://git-scm.com/docs/git-revert.html)
+to learn how to do this.
 
 1. For the day 2 exercise, you will need to have a GitHub account.
 [Create a GitHub account](https://github.com/) if you don't already have one.
