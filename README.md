@@ -93,3 +93,8 @@ where you can test out `git` commands; not all `git` commands are supported
 ### GitHub Education
 
 - [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+### Git Commit Message Format Information
+
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+- [cbeams "How to Write a Good Commit Message"](https://cbea.ms/git-commit/)
