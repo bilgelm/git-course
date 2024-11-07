@@ -5,11 +5,11 @@
 # that need to be fixed.
 
 # read in message.txt and save to a variable called msg
-msg <- scan(file.path("msge.txt"), sep = " ", quiet = TRUE)
+msg <- scan(file.path("msg.txt"), sep = " ", quiet = TRUE)
 
 # convert msg from integers to UTF-8 characters
 # save to a variable called decoded_msg
-decoded_msg <- intToUtf8(mgs)
+decoded_msg <- intToUtf8(msg)
 
 # display decoded_msg using the "message" function
-message(decoded_mgs)
+message(decoded_msg)
